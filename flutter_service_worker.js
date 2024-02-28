@@ -3,12 +3,13 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "246fc4e24bb2dedbe501ce2a5dea0d0b",
-"assets/AssetManifest.bin.json": "22b820424eec9ef14eac3254df235557",
-"assets/AssetManifest.json": "877934b1e65891259b6ec8395b3e3163",
+const RESOURCES = {"assets/AssetManifest.bin": "6a7bde6bc2f2748899a259eda96235e9",
+"assets/AssetManifest.bin.json": "0944707b7497f2fe0cbe0d590435d7ed",
+"assets/AssetManifest.json": "b360b7d7bb8066e28c3d93b84398efb7",
 "assets/assets/icons/facebook.svg": "798de5629e591757935e636dcca73211",
 "assets/assets/icons/instagram.svg": "1b6db4173f8799c7117b0626e638aff0",
 "assets/assets/icons/linkedin.svg": "2c20928ddc18c3e2ac70e6f8f38ca825",
+"assets/assets/icons/whatsapp.svg": "c0c827f0a5a1f11bfdd8fc60a4087d5c",
 "assets/assets/images/fb%2520cover%2520and%2520pp-02.jpg": "8b840ef1a7f0700922a45416f61c6215",
 "assets/assets/images/fb%2520cover%2520and%2520pp-03.jpg": "ce60338a60999e230a457642898216cf",
 "assets/assets/images/fb%2520cover%2520and%2520pp-2-03.jpg": "48cb5e438315b7498311eae0f1945a6e",
@@ -36,9 +37,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "246fc4e24bb2dedbe501ce2a5dea0d0b
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "00cdaa98d3a2f997948cf550c15d070b",
-"/": "00cdaa98d3a2f997948cf550c15d070b",
-"main.dart.js": "5779bbde003b19fcfcce7d44b69afa74",
+"index.html": "8859405461078affcc750ded71fc1189",
+"/": "8859405461078affcc750ded71fc1189",
+"main.dart.js": "26edda43cf2dfb0ed2754ce7f19dc80d",
 "manifest.json": "ae3eb6ab88a65bf3c66c486755b5ac79",
 "version.json": "f17f10678b62196c38d1fc8b582e90d0"};
 // The application shell files that are downloaded before a service worker can
