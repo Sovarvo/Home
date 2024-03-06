@@ -1,11 +1,11 @@
 {
-    "name": "web_project",
-    "short_name": "web_project",
+    "name": "Sovarvo",
+    "short_name": "Sovarvo",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "background_color": "#ff8F3D96",
+    "theme_color": "#ff8F3D96",
+    "description": "Sovarvo is a gaming rental service specializing in providing video game consoles and games for PS5 (PlayStation 5).",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
